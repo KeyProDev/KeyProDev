@@ -41,6 +41,11 @@
 </tr>
 </table>
 
+## 📩 Contact Info
+- Mail: key.pro.dev@gmail.com
+- Skype: live:.cid.bb0afe7d75d8108b
+- Telegram: https://t.me/DevFamily99
+- Discord: superdev123
 
 ## 🚀 About Me
 
