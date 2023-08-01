@@ -1,21 +1,49 @@
 ## 🚀 About Me
 
- I'm a full stack web developer with vast experience of MERN, MEVN, MEAN stacks and blockchain.
-Web site development is in my blood as I have been working as web developer for 6 years. Throughout all these precious years I have made myself enrich with a lot of web related skills. I believe in quality and confidence rather than quantity and more money earning policy. I like difficult tasks to prove my ability as a Full stack developer. I am ready to take any kind of challenges in any situation. I always make sure of the quick turnaround of my job as I never disappoint any of my clients. I am expert enough to manage any kind of job environment by coming up with my multitasking expertise. I am honest and hardworking.
-  I always try to learn new things and update my previous knowledge. I have never exceeded time limits. I am confident that I can carry your tasks efficiently and accurately. I am committed to my clients and always focus on their respectable needs. And I work with 100% client satisfaction. Just give me the task and sit back on your chair. All I need is your support and cooperation. I am hoping for a chance to work.
- Thank you.
+As a seasoned full-stack developer with 5 years of experience, I excel in front-end and back-end technologies, databases, deployment, and DevOps practices.
+My expertise lies in JavaScript frameworks, serverless architecture, GraphQL, microservices, containerization, PWAs, AI/ML integration, real-time communication, and security.
+With a strong problem-solving mindset and collaborative skills, I have successfully delivered diverse web and mobile applications, including online marketplaces, healthcare apps, booking platforms, content sharing platforms, and customer support portals.
 
 ## 🛠️ Skills
 
-- Programming Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
-- Mobile Development: React Native, Expo, Flutter (basic knowledge), Swift
-- Front-End Technologies: React, Angular, Vue.js, Bootstrap, Material-UI, Antd
-- Back-End Technologies: Node.js, Express.js, Next.js, Laravel, Django, Ruby on Rails, MongoDB, MySQL, PostgreSQL
-- Version Control: Git, GitHub, Bitbucket
-- Testing and Debugging: Jest, Enzyme, React Testing Library, Xcode Instruments, Android Profiler
-- Deployment and CI/CD: Amazon Web Services (AWS), Heroku, Netlify, Jenkins, Docker
-- Problem Solving and Troubleshooting
-- Strong Communication and Collaboration Skills
+### Front-end Development:
+- Proficiency in HTML, CSS, and JavaScript
+- Experience with popular frameworks like React, Angular, or Vue.js
+- Knowledge of responsive design and mobile-first development
+- Familiarity with UI/UX design principles and tools
+- API integration and third-party service expertise
+
+### Back-end Development:
+- Strong knowledge of server-side programming languages like Node.js, Python, Java, or C#
+- Understanding of web application frameworks such as Express.js, Django, Spring, or ASP.NET
+- Proficiency in RESTful API design and development
+- Experience in server-side architecture, scalability, and performance optimization
+- Familiarity with caching mechanisms and server security practices
+
+### Database Management:
+- Understanding of database design principles and normalization
+- Proficiency in SQL for data manipulation and querying
+- Knowledge of databases like MySQL, PostgreSQL, Oracle, or MongoDB
+- Experience in database indexing, query optimization, and performance tuning
+- Understanding of data migration and versioning techniques
+
+### DevOps and Deployment:
+- Familiarity with Git and branching strategies
+- Experience deploying applications to cloud platforms like AWS, Azure, or Google Cloud
+- Understanding of containerization technologies (Docker) and orchestration tools (Kubernetes)
+- Knowledge of CI/CD tools (Jenkins, Travis CI, or GitLab CI/CD)
+- Familiarity with infrastructure-as-code tools like Terraform or CloudFormation
+- Application performance monitoring, log handling, and error tracking
+
+### Soft Skills:
+- Strong problem-solving and analytical thinking
+- Effective communication and collaboration skills
+- Attention to detail and clean, maintainable code writing
+- Adaptability and eagerness to learn new technologies and frameworks
+- Time management and ability to handle multiple projects concurrently
+- Knowledge of Agile methodologies and experience working in Agile environments
+
+I am passionate about advancing my career as a full-stack developer, seeking new challenges, and embracing opportunities for growth.
 
 ## 📩 Contact Info
 - Mail: key.pro.dev@gmail.com
