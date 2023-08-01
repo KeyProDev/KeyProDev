@@ -5,6 +5,12 @@ Web site development is in my blood as I have been working as web developer for 
   I always try to learn new things and update my previous knowledge. I have never exceeded time limits. I am confident that I can carry your tasks efficiently and accurately. I am committed to my clients and always focus on their respectable needs. And I work with 100% client satisfaction. Just give me the task and sit back on your chair. All I need is your support and cooperation. I am hoping for a chance to work.
  Thank you.
 
+## 📩 Contact Info
+- Mail: key.pro.dev@gmail.com
+- Skype: live:.cid.bb0afe7d75d8108b
+- Telegram: https://t.me/DevFamily99
+- Discord: superdev123
+
 ## 🏅 Achievements
 
 -   🥇 **Winner of Coding Competition** at _RCCIIT_ (March 2020)
