@@ -1,46 +1,5 @@
 # [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Full-Stack+Developer;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
 
-<!-- Hero Section -->
-<p align="center"><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /><img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&theme=react-dark" alt="My github activity graph" /><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/output/snake-anime.svg" alt="Github Snake Animation"></p>
-
-<!-- Profile Views -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=royrustdev&label=Github%20Profile%20Views&color=blueviolet&style=flat-square" alt="royrustdev" />
-<a href="https://twitter.com/royrustdev" target="_blank">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/royrustdev?color=blue&logo=Twitter&style=flat-square">
-</a>
-<a href="https://www.reddit.com/user/royrustdev/" target="_blank">
-<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/royrustdev?logo=Reddit&style=flat-square">
-</a>
-
-</p>
-
-# I'm a
-
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;DevOps+Engineer;AWS+Developer+Associate)](https://git.io/typing-svg)
-
-<!-- Skills as a table -->
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/rust.svg" alt="Rust icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/aws.svg" alt="AWS icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/docker.svg" alt="Docker icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/jenkins.svg" alt="jenkins icon" /></td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/kubernetes.svg" alt="kubernetes icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/terraform.svg" alt="terraform icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/postgresql.svg" alt="postgresql icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/nodejs.svg" alt="nodejs icon" /></td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/ts.svg" alt="typescript icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/js.svg" alt="javascript icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/vuejs.svg" alt="vuejs icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/scss.svg" alt="scss icon" /></td>
-</tr>
-</table>
-
 ## 📩 Contact Info
 - Mail: key.pro.dev@gmail.com
 - Skype: live:.cid.bb0afe7d75d8108b
@@ -49,14 +8,7 @@
 
 ## 🚀 About Me
 
-🎓 I am CryptoStar, a **Fullstack Blockchain Core Engineer** (specializing in **Ethereum, Near, Solana, Substrate, Polkadot etc**).
-
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
-
-📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
-
-✈️ I love **traveling** too. I have been on solo trips to **Bulgaria** in _2018_ and to **Seattle, Canada** in _2020_.
+I'm a full stack web developer with vast experience of MERN, MEVN, MEAN stacks and blockchain. Web site development is in my blood as I have been working as web developer for 6 years. Throughout all these precious years I have made myself enrich with a lot of web related skills. I believe in quality and confidence rather than quantity and more money earning policy. I like difficult tasks to prove my ability as a Full stack developer. I am ready to take any kind of challenges in any situation. I always make sure of the quick turnaround of my job as I never disappoint any of my clients. I am expert enough to manage any kind of job environment by coming up with my multitasking expertise. I am honest and hardworking. I always try to learn new things and update my previous knowledge. I have never exceeded time limits. I am confident that I can carry your tasks efficiently and accurately. I am committed to my clients and always focus on their respectable needs. And I work with 100% client satisfaction. Just give me the task and sit back on your chair. All I need is your support and cooperation. I am hoping for a chance to work. Thank you.
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
