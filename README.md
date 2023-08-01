@@ -1,24 +1,14 @@
-# [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Full-Stack+Developer;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
-
-## 📩 Contact Info
-- Mail: key.pro.dev@gmail.com
-- Skype: live:.cid.bb0afe7d75d8108b
-- Telegram: https://t.me/DevFamily99
-- Discord: superdev123
-
 ## 🚀 About Me
 
-I'm a full stack web developer with vast experience of MERN, MEVN, MEAN stacks and blockchain. Web site development is in my blood as I have been working as web developer for 6 years. Throughout all these precious years I have made myself enrich with a lot of web related skills. I believe in quality and confidence rather than quantity and more money earning policy. I like difficult tasks to prove my ability as a Full stack developer. I am ready to take any kind of challenges in any situation. I always make sure of the quick turnaround of my job as I never disappoint any of my clients. I am expert enough to manage any kind of job environment by coming up with my multitasking expertise. I am honest and hardworking. I always try to learn new things and update my previous knowledge. I have never exceeded time limits. I am confident that I can carry your tasks efficiently and accurately. I am committed to my clients and always focus on their respectable needs. And I work with 100% client satisfaction. Just give me the task and sit back on your chair. All I need is your support and cooperation. I am hoping for a chance to work. Thank you.
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+ I'm a full stack web developer with vast experience of MERN, MEVN, MEAN stacks and blockchain.
+Web site development is in my blood as I have been working as web developer for 6 years. Throughout all these precious years I have made myself enrich with a lot of web related skills. I believe in quality and confidence rather than quantity and more money earning policy. I like difficult tasks to prove my ability as a Full stack developer. I am ready to take any kind of challenges in any situation. I always make sure of the quick turnaround of my job as I never disappoint any of my clients. I am expert enough to manage any kind of job environment by coming up with my multitasking expertise. I am honest and hardworking.
+  I always try to learn new things and update my previous knowledge. I have never exceeded time limits. I am confident that I can carry your tasks efficiently and accurately. I am committed to my clients and always focus on their respectable needs. And I work with 100% client satisfaction. Just give me the task and sit back on your chair. All I need is your support and cooperation. I am hoping for a chance to work.
+ Thank you.
 
 ## 🏅 Achievements
 
--   📝 **5+ Times Global #1 Weekly Blog Writer** at _Dev_ (January 2022)
--   ⭐ **Global rank 750** at _Google Kickstart 2020 Round H_ (November 2020)
--   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2020_ (October 2020)
 -   🥇 **Winner of Coding Competition** at _RCCIIT_ (March 2020)
--   🥈 **1st Runner up at Coding Competition** at _Heritage Institute of Technology_ (September 2019)
+-   🥈 **1st Runner up at Coding Competition** at _Heritage Institute of Technology_ (September 2018)
 -   🥉 **2nd Runner up at Coding Competition** at _GCECT_ (March 2019)
 
 ## 🛠️ Skills
