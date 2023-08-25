@@ -51,6 +51,11 @@ I am passionate about advancing my career as a full-stack developer, seeking new
 - Telegram: https://t.me/DevFamily99
 - Discord: superdev123
 
+## 💰 Payment Address
+- Paypal: goldencart2000@gmail.com
+- Crypto: TTafdtCYKCteVa3cA5MQ9quBaq4jij6dYz(USDT-trc20)      0xc12EEE417E11CbEB4F5B237328d55EfE1a49D9de(USDT-erc20)
+- Payoneer: dmtkachenko99@gmail.com
+
 ## 🏅 Achievements
 
 -   🥇 **Winner of Coding Competition** at _RCCIIT_ (March 2020)
