@@ -54,7 +54,7 @@ I am passionate about advancing my career as a full-stack developer, seeking new
 ## 💰 Payment Address
 - Paypal: goldencart2000@gmail.com
 - Crypto: TPaGZ4QTRpMSa83ee1EehrBrkPJDqWTja3(USDT-trc20)      0xbc437fe552ee07650f1d212436448ab9ef1a13fd(USDT-erc20)
-- Payoneer: dmtkachenko99@gmail.com
+- Payoneer: dmtkachenko99@gmail.com, sargis.sarg85@gmail.com
 
 ## 🏅 Achievements
 
