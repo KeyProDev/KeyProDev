@@ -52,7 +52,7 @@ I am passionate about advancing my career as a full-stack developer, seeking new
 - Discord: superdev123
 
 ## 💰 Payment Address
-- Paypal: goldencart2000@gmail.com
+- Paypal: QuickFast0901@outlook.com
 - Crypto:
 - TTafdtCYKCteVa3cA5MQ9quBaq4jij6dYz(USDT-trc20)
 - TPaGZ4QTRpMSa83ee1EehrBrkPJDqWTja3(USDT-trc20)
