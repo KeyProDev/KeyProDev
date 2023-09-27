@@ -54,13 +54,12 @@ I am passionate about advancing my career as a full-stack developer, seeking new
 ## 💰 Payment Address
 - Paypal: QuickFast0901@outlook.com
 - Crypto:
-- TTafdtCYKCteVa3cA5MQ9quBaq4jij6dYz(USDT-trc20)
-- TPaGZ4QTRpMSa83ee1EehrBrkPJDqWTja3(USDT-trc20)
+- TTafdtCYKCteVa3cA5MQ9quBaq4jij6dYz(USDT-trc20)BC
+- TPaGZ4QTRpMSa83ee1EehrBrkPJDqWTja3(USDT-trc20)MEXC
 - TBc6HcMveqFmsyPgkDV4CFmRw497LrJMkg(USDT-trc20)
 - 0xbc437fe552ee07650f1d212436448ab9ef1a13fd(USDT-erc20)
 - Payoneer:
 - dmtkachenko99@gmail.com
-- sargis.sarg85@gmail.com
 
 ## 🏅 Achievements
 
