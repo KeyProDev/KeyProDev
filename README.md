@@ -74,7 +74,3 @@ I am passionate about advancing my career as a full-stack developer, seeking new
 ![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-https://tronscan.org/#/transaction/fb7915d2879cb5480d56ba0d7308c290e4dd47ef2b1742a81d32368dcf88b5eb
-
-
-https://tronscan.org/#/transaction/8e9dbcc776a80b43f4b7faa0a60826baa3e31d025ced24b3c20665a771f8c032
