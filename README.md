@@ -45,7 +45,7 @@ With a strong problem-solving mindset and collaborative skills, I have successfu
 
 I am passionate about advancing my career as a full-stack developer, seeking new challenges, and embracing opportunities for growth.
 
-## 📩 Contact Info
+## 📩 Contacts
 - Mail: key.pro.dev@gmail.com
 - Skype: live:.cid.bb0afe7d75d8108b
 - Telegram: https://t.me/DevFamily99
@@ -60,7 +60,7 @@ I am passionate about advancing my career as a full-stack developer, seeking new
 - TBc6HcMveqFmsyPgkDV4CFmRw497LrJMkg(USDT-trc20)
 - 0xbc437fe552ee07650f1d212436448ab9ef1a13fd(USDT-erc20)
 - Payoneer:
-- dmtkachenko99@gmail.com
+- sergeyurazov555@gmail.com
 
 ## 🏅 Achievements
 
